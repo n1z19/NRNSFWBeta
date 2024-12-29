@@ -1,9 +1,7 @@
-# SpicyFlix NSFW Bot
-a cool and advanced discord verified bot with over 1.6k guilds with powefull and various used apis you can [invite here](https://discord.com/oauth2/authorize?client_id=1185495860008730745&permissions=259845838912&integration_type=0&scope=bot) the bot.
+# NRNSFW Bot(BETA) ORIG. SPICYFLIX BOT REWRITTEN!
+a cool and advanced discord verified bot with over 1.6k guilds with powefull and various used apis you can [invite here](https://discord.com/oauth2/authorize?client_id=1315295456640630794&permissions=8&integration_type=0&scope=bot+applications.commands) the bot.
 
 ## Installation
-- Clone the file
-- cd spicyflix
 - npm install
 - node deploySlash.js global (do this after each changing you done in api)
 - node .
@@ -33,4 +31,4 @@ If you're using this code (main repo by adivise), we kindly request that you ack
 You're free to modify the code design and incorporate additional updates to suit your needs.
 Please note that our name is not mentioned anywhere within the code itself, so providing credit is entirely optional on your part.
 
-Thank you for respecting these guidelines and happy coding!  [Our Discord Support Server](https://discord.gg/KKCVmtTZwB)
+Thank you for respecting these guidelines and happy coding!  [Our Discord Support Server](https://discord.gg/nizira1n)
